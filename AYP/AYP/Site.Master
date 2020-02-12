@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="AYP.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+    <title><%: Page.Title %></title>
+</head>
+<body>
+    <form runat="server">
+    <header id="header">
+		<div class="inner">
+			<a href="Anasayfa.aspx" class="logo">AYP</a>
+			<nav id="nav">
+				<a href="Anasayfa.aspx">ANASAYFA</a>
+                <a href="MusteriListesi.aspx">MÜŞTERİ LİSTESİ</a>
+                <a href="MusteriK.aspx">KAYIT</a>
+                <a href="MusteriG.aspx">GÜNCELLEME</a>
+                <a href="MusteriKS.aspx">KAYIT SİLME</a>
+                <a href="YedekParca.aspx">YEDEK PARÇA</a>
+				<a href="Hakkimizda.aspx">H&İ</a>
+			</nav>
+		</div>
+	</header>
+	<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+
+    <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+	<section id="footer">
+		<div class="inner">		
+			<div class="copyright">
+				<p>&copy; <%: DateTime.Now.Year %> - AYP Programı. Tüm Hakları Saklıdır.</p>
+			</div>
+		</div>
+	</section>
+
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/skel.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+    </form>
+</body>
+</html>

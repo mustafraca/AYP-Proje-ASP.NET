@@ -1,0 +1,334 @@
+C:\AYP\AYP\bin\roslyn\csc.exe
+C:\AYP\AYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AYP\AYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AYP\AYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AYP\AYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AYP\AYP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AYP\AYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AYP\AYP\bin\roslyn\System.Collections.Immutable.dll
+C:\AYP\AYP\bin\roslyn\System.Reflection.Metadata.dll
+C:\AYP\AYP\bin\roslyn\vbc.exe
+C:\AYP\AYP\bin\roslyn\VBCSCompiler.exe
+C:\AYP\AYP\bin\roslyn\VBCSCompiler.exe.config
+C:\AYP\AYP\bin\AYP.dll.config
+C:\AYP\AYP\bin\AYP.dll
+C:\AYP\AYP\bin\AYP.pdb
+C:\AYP\AYP\bin\Antlr3.Runtime.dll
+C:\AYP\AYP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\AYP\AYP\bin\AspNet.ScriptManager.jQuery.dll
+C:\AYP\AYP\bin\EntityFramework.dll
+C:\AYP\AYP\bin\EntityFramework.SqlServer.dll
+C:\AYP\AYP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\AYP\AYP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\AYP\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\AYP\AYP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\AYP\AYP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\AYP\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AYP\AYP\bin\Microsoft.Owin.dll
+C:\AYP\AYP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\AYP\AYP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\AYP\AYP\bin\Microsoft.Owin.Security.dll
+C:\AYP\AYP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\AYP\AYP\bin\Microsoft.Owin.Security.Google.dll
+C:\AYP\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\AYP\AYP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\AYP\AYP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\AYP\AYP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\AYP\AYP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\AYP\AYP\bin\Microsoft.Web.Infrastructure.dll
+C:\AYP\AYP\bin\Newtonsoft.Json.dll
+C:\AYP\AYP\bin\Owin.dll
+C:\AYP\AYP\bin\System.Web.Optimization.dll
+C:\AYP\AYP\bin\System.Web.Providers.dll
+C:\AYP\AYP\bin\WebGrease.dll
+C:\AYP\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AYP\AYP\bin\System.Web.Optimization.xml
+C:\AYP\AYP\bin\Antlr3.Runtime.pdb
+C:\AYP\AYP\bin\Newtonsoft.Json.xml
+C:\AYP\AYP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\AYP\AYP\bin\EntityFramework.xml
+C:\AYP\AYP\bin\EntityFramework.SqlServer.xml
+C:\AYP\AYP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\AYP\AYP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\AYP\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\AYP\AYP\bin\System.Web.Providers.xml
+C:\AYP\AYP\bin\Microsoft.Owin.xml
+C:\AYP\AYP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\AYP\AYP\bin\Microsoft.Owin.Security.xml
+C:\AYP\AYP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\AYP\AYP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\AYP\AYP\bin\Microsoft.Owin.Security.Google.xml
+C:\AYP\AYP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\AYP\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\AYP\AYP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\AYP\AYP\obj\Debug\AYP.csprojResolveAssemblyReference.cache
+C:\AYP\AYP\obj\Debug\AYP.dll
+C:\AYP\AYP\obj\Debug\AYP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\AYP.dll.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\AYP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\AYP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\EntityFramework.SqlServer.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\System.Web.Providers.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\EntityFramework.SqlServer.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\System.Web.Providers.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\obj\Debug\AYP.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\obj\Debug\AYP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\AYP ASP.Net\Proje\AYP\obj\Debug\AYP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\AYP.dll.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\AYP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\AYP.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\EntityFramework.SqlServer.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Owin.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\System.Web.Providers.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\EntityFramework.SqlServer.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\System.Web.Providers.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\obj\Debug\AYP.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\obj\Debug\AYP.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\obj\Debug\AYP.dll
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\AYP ASP.Net\Proje\AYP\obj\Debug\AYP.pdb
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\AYP.dll.config
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\AYP.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\AYP.pdb
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\EntityFramework.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\EntityFramework.SqlServer.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Owin.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\System.Web.Providers.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\EntityFramework.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\EntityFramework.SqlServer.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\System.Web.Providers.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.csproj.CopyComplete
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.dll
+C:\Users\ACAR\Desktop\MUSTAFA\Okul Dosyaları\Kullar MYO\2.SINIF\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.pdb
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\csc.exe
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\vbc.exe
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\AYP.dll.config
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\AYP.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\AYP.pdb
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Antlr3.Runtime.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\EntityFramework.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\EntityFramework.SqlServer.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Newtonsoft.Json.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Owin.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\System.Web.Optimization.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\System.Web.Providers.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\WebGrease.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\System.Web.Optimization.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Antlr3.Runtime.pdb
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Newtonsoft.Json.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\EntityFramework.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\EntityFramework.SqlServer.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\System.Web.Providers.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.csprojAssemblyReference.cache
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.csproj.CopyComplete
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.dll
+C:\Users\ACAR\Desktop\OKUL\Kullar MYO\BİTİRME PROJELERİ\Çağla\Proje I\Proje\AYP\obj\Debug\AYP.pdb
